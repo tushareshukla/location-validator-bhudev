@@ -1,0 +1,12 @@
+{
+  "name": "location-validator-bhudev",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bhudev",
+  "license": "ISC",
+  "description": "Javascript library to validate location from user input with in a specified range(in meters)" 
+}
